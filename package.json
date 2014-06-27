@@ -1,21 +1,21 @@
 {
-  "name": "generator-xbars",
-  "version": "0.0.2",
+  "name": "generator-reasonable-node",
+  "version": "0.0.1",
   "description": "A generator for Yeoman, with node, express, handlebars, and bootstrap.",
   "keywords": [
     "yeoman-generator"
   ],
-  "homepage": "https://github.com/jfrazelle/generator-xbars",
-  "bugs": "https://github.com/jfrazelle/generator-xbars/issues",
+  "homepage": "https://github.com/glamp/generator-reasonable-node",
+  "bugs": "https://github.com/glamp/generator-reasonable-node/issues",
   "author": {
-    "name": "Jessie Frazelle",
+    "name": "Greg Lamp",
     "email": "",
-    "url": "https://github.com/jfrazelle"
+    "url": "https://github.com/glamp"
   },
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jfrazelle/generator-xbars.git"
+    "url": "git://github.com/glamp/generator-reasonable-node.git"
   },
   "scripts": {
     "test": "mocha"

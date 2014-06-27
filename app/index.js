@@ -36,17 +36,17 @@ XbarsGenerator.prototype.askFor = function askFor() {
   {
     name: 'description',
     message: 'Description?',
-    default: 'App.'
+    default: 'Ze app'
   },
   {
     name: 'author',
     message: 'Author name?',
-    default: 'Jessica Frazelle'
+    default: 'Greg Lamp'
   },
   {
     name: 'author_uri',
     message: 'Author website?',
-    default: 'http://frazelledazzell.com'
+    default: 'http://yaksis.com/'
   },
   {
     name: 'port',
@@ -90,7 +90,7 @@ XbarsGenerator.prototype.h5bp = function h5bp() {
 XbarsGenerator.prototype.appFiles = function appFiles() {
   this.template('app.js', 'app.js');
   this.template('main.html', 'views/layouts/main.html');
-  this.write('views/index.html', '<p class="lead">Hello World</p>');
+  this.write('views/index.html', '<p class="lead">Suck it Trabek!</p>');
   this.write('views/404.html', '<h4>404</h4>');
   this.write('public/js/main.js', '');
 };

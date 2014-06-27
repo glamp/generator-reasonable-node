@@ -1,4 +1,4 @@
-# generator-xbars [![Build Status](https://secure.travis-ci.org/jfrazelle/generator-xbars.png?branch=master)](https://travis-ci.org/jfrazelle/generator-xbars)
+# generator-reasonable-node [![Build Status](https://secure.travis-ci.org/glamp/generator-reasonable-node.png?branch=master)](https://travis-ci.org/jfrazelle/generator-reasonable-node)
 
 A generator for [Yeoman](http://yeoman.io).
 
@@ -23,10 +23,10 @@ $ npm install -g yo
 
 Yeoman travels light. He didn't pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.
 
-To install generator-xbars from npm, run:
+To install generator-reasonable-node from npm, run:
 
 ```
-$ npm install -g generator-xbars
+$ npm install -g generator-reasonable-node
 ```
 
 Finally, initiate the generator:
