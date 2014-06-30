@@ -32,7 +32,7 @@ $ npm install -g generator-reasonable-node
 Finally, initiate the generator:
 
 ```
-$ yo xbars
+$ yo generator-reasonable-node
 ```
 
 ### Getting To Know Yeoman
